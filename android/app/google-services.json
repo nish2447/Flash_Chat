@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619450544107",
+    "project_id": "flash-chat-7cef3",
+    "storage_bucket": "flash-chat-7cef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619450544107:android:aebf63729cdb4932d9b3ae",
+        "android_client_info": {
+          "package_name": "com.nishyadav.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619450544107-639bbrnnokcefhu1itkil0hpdd4rb2sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0j-vgFmPDRYjkI5OM-FioHCf8Fjwne7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619450544107-639bbrnnokcefhu1itkil0hpdd4rb2sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
